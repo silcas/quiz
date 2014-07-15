@@ -1,0 +1,50 @@
+Practica
+
+- Que permisologia tiene los siguientes archivos
+rwxrwx--- 770
+--------- 0
+rw-rw---- 660
+r-xr-xr-x 333
+---rw-r-x  065
+--x--x--x  111
+
+
+- Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
+firefox.txt
+
+-Cuanto pesa tu /home/ y cuanto pesa /etc
+
+
+- Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
+de un archivo llamado memoria.txt
+
+-Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
+
+- Como matamos un proceso del computador
+
+- Que hace el respectivo comando $cat toto > toto2
+
+- Cree una carpeta con tu nombre
+ root@canaima-popular:/home# mkdir sil
+
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3
+  touch c1.txt c2.txt c3.txt 
+
+- Guardamos en el c1 su nombre completo
+nano c1.txt SIL CASTILLO
+
+- Guardamos el c3 el correo electrónico
+
+nano c3.txt silcas82@gmail.com
+
+- Describa a continuación la función de los siguientes directorios
+
+/bin  es una imagenque contiene toda la informacion exacta de un cd   
+/home/ es un espacio donde se puede guardar, modificar y borrar datos de un usuario
+/media
+/var  
+/	
+/sbin
+/boot
+
+
